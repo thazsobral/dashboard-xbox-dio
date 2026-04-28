@@ -1,6 +1,6 @@
 # Análise de Vendas: Xbox Game Pass Subscriptions
 
-Este projeto foi desenvolvido como parte de um curso de **Análise de Dados**, com o objetivo de processar, analisar e visualizar métricas de desempenho de assinaturas do serviço Xbox Game Pass. O foco principal recai sobre a distribuição de planos, renovação automática e o impacto financeiro de serviços adicionais (add-ons).
+Este projeto foi desenvolvido como parte de um curso de **Análise de Dados com Excel**, com o objetivo de processar, analisar e visualizar métricas de desempenho de assinaturas do serviço Xbox Game Pass. O foco principal recai sobre a distribuição de planos, renovação automática e o impacto financeiro de serviços adicionais (add-ons).
 
 ## 📌 Visão Geral do Projeto
 
